@@ -19,7 +19,7 @@ Leonardo AI:
 
 | Ação | Prompt |
 |--------|----------|
-|Imagem da capa| dsa |
+|Imagem da capa| Design a striking ebook cover that illustrates the concept 'Turn Ideas into Ebooks: The Power of AI'. The cover should feature a blend of a light bulb (symbolizing ideas) and digital elements like binary code or circuit patterns (representing AI). Use vibrant, eye-catching colors and modern, sleek typography. The background should be dynamic and futuristic, emphasizing innovation and technology. |
 
 ----------------
 <br/>
